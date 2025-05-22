@@ -82,6 +82,21 @@
 
 - **Tail Cyclone:**
     - Swings his massive tail to create hurricane-level cyclones capable of disintegrating entire enemy fleets.
+- **Divine Karma Reversal:**
+    - Can reflect not just attacks but the _intent_ behind them. If someone attacks with hatred, they feel their own hatred as pain.
+
+- **Bhakti Pulse:**
+    - Emits waves of divine devotion that can **purify enemies** or break mind control. (Pure Hanuman-vibe.)
+
+- **Multiverse Anchor:**
+    - If the multiverse collapses, Hanuman is **still intact**, acting as a root-node that reboots creation.
+
+- **Sanskrit Code Reality Rewriting:**
+    - Speaks Vedic mantras in a _cosmic programming language_ that **rewrites reality** (similar to Doctor Strange's spells or Rune Magic).
+
+- **Parashakti Core:**
+    
+    - The **divine feminine energy** (Shakti) embedded within, making him the _balanced form of Shiva and Shakti energy_ — total cosmic harmony and destruction potential.
 
 ---
 
