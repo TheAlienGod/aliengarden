@@ -95,9 +95,7 @@
     - Speaks Vedic mantras in a _cosmic programming language_ that **rewrites reality** (similar to Doctor Strange's spells or Rune Magic).
 
 - **Parashakti Core:**
-    
     - The **divine feminine energy** (Shakti) embedded within, making him the _balanced form of Shiva and Shakti energy_ — total cosmic harmony and destruction potential.
-
 ---
 
 ### Weaknesses & Limitations
