@@ -44,77 +44,50 @@
 #### Core Abilities
 
 - **4-Soul Brain Matrix:**
-    
     - Hanuman Soul: Grants unmatched devotion, immortality, and divine strength.
-        
-    - Celestial Mind: Cosmic awareness and hyperspace cognition.
-        
-    - Doom Engine: Nuclear and energy weapons control.
-        
-    - Volcanic Beast: Elemental fire control and brute physical power.
-        
+    - Hanuman Soul 5 Mukh Soul: Manifesting five faces.
+    - Hanuman Soul 11 Mukh Soul: Eleven faces glowing in radiant light.
+    - **Shatadru Bose**: The Omnitrix King.
+
 - **Nuclear Barrage:**
-    
     - Can shoot multiple 450 megaton thermonuclear blasts from each hand, able to obliterate entire planets or small stars.
-        
+
 - **Immortal Skin:**
-    
     - Molecularly reinforced with quantum and divine layers, immune to radiation, black holes, dark matter, and godly magic.
-        
+
 - **Flight at Hyperspace Speeds:**
-    
     - Moves faster than light, capable of intergalactic travel in moments.
-        
+
 - **Hanuman’s Gadha (Mace):**
-    
     - Forged from cosmic and spiritual energy, can crush dimensions, emit destructive shockwaves, and channel mantra storms.
-        
+
 - **Mantra Shields:**
-    
     - Summons impenetrable energy barriers powered by sacred Vedic chants embedded in his DNA.
-        
+
 - **Space-Time Manipulation:**
-    
     - Can warp space-time within a localized bubble, slowing enemies or teleporting allies.
-        
 
 #### Additional Powers
 
 - **Multiform Divine Transformations:**
-    
     - Normal Humungousaur (Vaxasaurian Beast)
-        
     - **Panch Mukh Hanuman Form:** Manifesting five faces—Hanuman, Narasimha (the lion-man), Garuda (divine eagle), Varaha (boar avatar), and Hayagriva (horse-headed wisdom deity). Each face grants a unique power such as destructive fire breath, divine speed, psychic blasts, or elemental control.
-        
     - **11 Mukh Hanuman Form:** Eleven faces glowing in radiant light, representing cosmic forces and universal guardians. In this form, Humungousaur is virtually immortal, wields the **Astral Gadha** that can split stars, and can momentarily freeze time in a localized area.
-        
+
 - **Cosmic Roar:**
-    
     - A terrifying battle cry that can shatter enemy morale, disrupt energy fields, and blind foes.
-        
+
 - **Energy Absorption:**
-    
     - Absorbs ambient energy (solar, nuclear, cosmic) to regenerate or empower his attacks.
-        
+
 - **Tail Cyclone:**
-    
     - Swings his massive tail to create hurricane-level cyclones capable of disintegrating entire enemy fleets.
-        
 
 ---
 
 ### Weaknesses & Limitations
 
 - Bound by **Hanuman’s Code of Dharma**: Cannot harm true devotees, children, or innocents — this ethical constraint can be exploited by enemies.
-    
-- Overuse of the **11 Mukh Form** causes temporary **Omnitrix energy depletion**, requiring a cooldown period.
-    
-- Vulnerable to **betrayal magic** or **false devotion illusions** which can disrupt his divine focus.
-    
-- His Gadha, while nearly indestructible, can be temporarily sealed or neutralized by advanced **Anti-Divine Technology** developed by certain dark cosmic factions.
-    
-- His immense power can cause strain on the Omnitrix’s core if battles extend too long without recharge.
-    
 
 ---
 
