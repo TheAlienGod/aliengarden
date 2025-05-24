@@ -106,10 +106,31 @@ This is not just a warrior—this is the **living embodiment of ideal humanity**
 
 ### Known Allies & Enemies
 
-**Allies:**
+**Souls:**
 
-- Shatadru Bose (Owner & God)
-- 
+- **Shatadru Bose** _(Owner & God)_.
+- **Shaktiman** _(Base)_.
+- **Krishna** – _(Divine Strategist)_.
+- **Rama** – _(Dharma Warrior)_.
+- **Einstein** – _(Spacetime Master)_.
+- **Newton** – _(Gravity Controller)_.
+- **Tesla** – _(Electric Genius)_.
+- **Aryabhata** – _(Orbital Thinker)_.
+- **Ramanujan** – _(Math Prophet)_.
+- **Buddha** – _(Peace Awakener)_.
+- **Chanakya** – _(Strategic Genius)_.
+- **Bruce Lee** – _(Combat Flow)_.
+- **Alexander** – _(Tactical Conqueror)_.
+- **Ashoka** – _(Peaceful King)_.
+- **Kalidasa** – _(Word Shaper)_.
+- **Maharana Pratap** – _(Honor Defender)_.
+- **Da Vinci** – _(Creative Polymath)_.
+- **APJ Abdul Kalam** – _(Dream Scientist)_.
+- **Swami Vivekananda** – _(Spiritual Fire)_.
+- **Srinivasa** – _(Logic Breaker)_.
+- **Subhash Chandra Bose** – _(Revolution Inciter)_.
+- **Vishwakarma** – _(Divine Builder)_.
+- **Rabindranath Tagore** – _(Poetic Soul)_.
 
 **Enemies:**
 
