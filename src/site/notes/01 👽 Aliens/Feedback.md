@@ -16,7 +16,7 @@ Multiple origins (Terra, Petropia, Khoros, Anur Transyl, and more—reflecting c
 Shatadru Bose
 
 **Title:**  
-The Omnitrix King / Ultimate Feedback
+The Energy And Osmosis King
 
 ---
 
@@ -39,16 +39,23 @@ Forged through battles, wisdom, and countless transformations, Feedback was desi
 
 **Core Abilities:**
 - **Omni-Energy Control**: Absorbs, redirects, and converts all known forms of energy—electric, nuclear, elemental, magical, and even cosmic—thanks to Feedback, Chromastone, and Alien X DNA.
+	- After absorbing enough energy, can overload surroundings, tech, or even enemies by pumping unstable energy back — causing chain reactions, system meltdowns, or explosions.
 - **Reality Manipulation**: Rewrites universal laws at will—control time, space, matter, and even causality itself (Alien X).
 - **Time Manipulation**: Freeze, loop, fast-forward, or erase time; create alternate timelines or restore erased realities.
 - **Space Manipulation**: Fold, stretch, teleport, or collapse space itself.
 - **Immortality**: Cannot age or die due to Alien X’s immortal structure and Snare-Oh’s undead physiology.
 - **Quantum Imagination**: Create new lifeforms, galaxies, even Omniverse variants using pure thought.
+- **Shared Powers**:
+	- Can delegate powers to created avatars or allies.
+	- Creates remote-controlled avatars, each carrying subsets of Feedback’s power loadouts — deployable across space and dimensions.
 - **Psychic & Psionic Powers:**
-	- Telekinesis (moving objects without touch) beyond just tech manipulation — including molecular manipulation.
-	- Psychic shields against mental attacks or psychic probing (to protect the souls within).
-	- Mind control resistance (not just telepathy, but outright defense).
-	- Precognition or limited clairvoyance to anticipate attacks or foresee enemy moves.
+	- Innate defenses block all mind control, telepathic intrusion, and memory tampering — including divine or ancient-level entities.
+	- Projects psychic shields around allies if needed.
+	- **Powers**:
+		- Telekinesis (moving objects without touch) beyond just tech manipulation — including molecular manipulation.
+		- Psychic shields against mental attacks or psychic probing (to protect the souls within).
+		- Mind control resistance (not just telepathy, but outright defense).
+		- Precognition or limited clairvoyance to anticipate attacks or foresee enemy moves.
 - **Multiversal Manifestation**: Can exist in infinite versions across parallel realities—syncing them all into one super version.
 - **Mana Manipulation**: 
 	- **Spellcasting**: Casts spells in various languages (including the Anodite tongue) for offense, defense, healing, and dimensional travel.
@@ -70,24 +77,29 @@ Forged through battles, wisdom, and countless transformations, Feedback was desi
 - **Ultimate Regeneration**: Can recover from any wound or dismemberment in milli-seconds (Swampfire, Goop, Upgrade), even rebuild from atoms if destroyed.
 	- Regrows lost parts instantly, down to atoms. Can regenerate from ashes, antimatter implosions, or existence erasure attempts.
 	- Soul regeneration enabled even if body and consciousness are destroyed.
+	- If fully destroyed (body, mind, and soul), can respawn via soul imprint left in reality.
+	- Can also resurrect fallen allies via permission or soul link.
 - **Size and Form Shifting**: From Ditto-like clones to Way Big’s cosmic size—he can grow, shrink, and duplicate while maintaining power.
 	- **Infinite Self Duplication**: Ditto + Alien X = limitless coordinated clones.
 	- **Shapeshifting**: Kevin’s mutation mimicry, Upgrade’s tech form, Armodrillo’s body mods.
 	- **Intangibility & Phasing**: Big Chill, Ampfibian.
 	- **Size Manipulation**: Way Big, Aggregor fusion—grow to continent or planet size.
 - **Flight & Superspeed**: Capable of plasma-powered and fire-based flight (Heatblast, Astrodactyl), with XLR8’s hyper-acceleration and time-perception warping.
-- **Advanced Elemental Mastery**:
-    - **Fire & Heat**: Heatblast, Swampfire, Gimlinopithecus, Ra’ad (plasma bolts).
-	- **Ice & Cold**: Big Chill, Arctiguana, Froststorm resistance.
-	- **Water**: Ripjaws, Bivalvan; water jets, pressurized slicing, underwater combat.
-	- **Electricity**: Feedback, Ampfibian, Conductoid, Shocksquatch.
-	- **Plant**: Wildvine, Swampfire—vines, toxins, regeneration.
-	- **Air/Sound**: Galapagus sonic pulse, Blitzwolfer sonic scream, Crashhopper shockwave jumps.
-	- **Magnetism**: Lodestar, Kevin's iron-based mimicry, internal polarity adjustment.
-	- **Gravity**: Gravattack gravity control, localized black hole generation.
-	- **Crystal & Light**: Chromastone—energy absorption/refraction, light constructs.
-	- **Slime & Acids**: Goop, Spitter—sticky traps, corrosive acid spit.
-	- **Toxic Energy**: P'andor’s radiation blasts and contamination fiel
+- **Advanced Elemental Mastery**: 
+	- Can fuse multiple elemental cores (like plasma + gravity + ice) into mega-attacks.
+	- Cosmic fusion blasts capable of tearing holes in reality, black hole lances, quantum shockwaves.
+	- **Elements**:
+	    - **Fire & Heat**: Heatblast, Swampfire, Gimlinopithecus, Ra’ad (plasma bolts).
+		- **Ice & Cold**: Big Chill, Arctiguana, Froststorm resistance.
+		- **Water**: Ripjaws, Bivalvan; water jets, pressurized slicing, underwater combat.
+		- **Electricity**: Feedback, Ampfibian, Conductoid, Shocksquatch.
+		- **Plant**: Wildvine, Swampfire—vines, toxins, regeneration.
+		- **Air/Sound**: Galapagus sonic pulse, Blitzwolfer sonic scream, Crashhopper shockwave jumps.
+		- **Magnetism**: Lodestar, Kevin's iron-based mimicry, internal polarity adjustment.
+		- **Gravity**: Gravattack gravity control, localized black hole generation.
+		- **Crystal & Light**: Chromastone—energy absorption/refraction, light constructs.
+		- **Slime & Acids**: Goop, Spitter—sticky traps, corrosive acid spit.
+		- **Toxic Energy**: P'andor’s radiation blasts and contamination fiel
 - **Multi-Form Combat**: Feedback can split into coordinated clones (Ditto), become intangible (Big Chill), or fight with sonic force (Galapagus, Blitzwolfer).
 - **Stealth & Sensory Domination**: Combines Wildmutt’s heightened senses, Upchuck’s stomach sense, Eye Guy’s 360° and thermal vision, and Alien X’s omniscience.
 - **Advanced Combat Techniques**: Uses tail-whip lasers (Astrodactyl), sound howls (Blitzwolfer), plasma grenades (Ball Weevil), slime projectiles (Spitter), claws (Wildmutt), and more.
@@ -95,6 +107,12 @@ Forged through battles, wisdom, and countless transformations, Feedback was desi
 	- **Plasma Grenades & Energy Orbs**: Ball Weevil, Astrodactyl.
 	- **Bio-Projectiles**: Spitter (slime), Wildvine (seed bombs), Upchuck (acid shot).
 	- **Sound & Frequency Control**: Feedback, Blitzwolfer, Galapagus—attacks that disable even magic or tech.
+	- Learns enemy powers, style, or technique within seconds and adapts counters in real time.
+	- Can auto-adjust speed, angle, technique, or elemental balance to overcome weaknesses instantly.
+	- Can perceive split-second futures to predict enemy actions and trap outcomes. Limited to short-term combat predictions to avoid being broken.
+	- Learns enemy powers, style, or technique within seconds and adapts counters in real time.
+	- Can auto-adjust speed, angle, technique, or elemental balance to overcome weaknesses instantly.
+>
 -  **Utility & Survival**
 	- **Omni-Senses**: Wildmutt’s sniff, Eye Guy’s 360° vision, Brainstorm’s electric field awareness.
 	- **Underwater Breathing**: Ripjaws, Bivalvan, Ampfibian.
@@ -103,7 +121,7 @@ Forged through battles, wisdom, and countless transformations, Feedback was desi
 	- **Fusion**: Aggregor and Kevin power-combo replication.
 	- **Mining & Terrain Destruction**: Armodrillo, Andreas—shockwave drills, fissure makers.
 	- **Environmental Adaptation**: Instant environmental adaptation at molecular level—like breathable atmosphere change, temperature resistance, pressure tolerance (deep space, underwater, toxic gas)—beyond usual Alien X survival.
-	- Automatically rewrites own biology for survival in extreme zones (lava, deep space, black holes, poison atmospheres, voids) with 0 delay.
+	- **Extreme Survival**: Automatically rewrites own biology for survival in extreme zones (lava, deep space, black holes, poison atmospheres, voids) with 0 delay.
 	- **DNA Alien Powers And Abilities**:
 		- **Biomorphing Tentacles**: Create bio-tentacles for grappling, strangling, or stabbing—can even mutate tech.
 		- **Enhanced Muscle Density**: 2x-5x baseline strength multiplier.
