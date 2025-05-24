@@ -95,12 +95,17 @@ Forged through battles, wisdom, and countless transformations, Feedback was desi
 	- **Self-Healing**: Swampfire, Goop, Aggregor bio-regen.
 	- **Fusion**: Aggregor and Kevin power-combo replication.
 	- **Mining & Terrain Destruction**: Armodrillo, Andreas—shockwave drills, fissure makers.
-	- **Biomorphing Tentacles**: Create bio-tentacles for grappling, strangling, or stabbing—can even mutate tech.
-	- **Enhanced Muscle Density**: 2x-5x baseline strength multiplier.
-	- **Parasite Infusion**: Infect enemies temporarily with control spores (optional mental suppression ability).
-	- **Exoskeletal Armor**: Adds a flexible but nearly bulletproof organic shell that regenerates.
-	- **Flight via Wing Mutation**: Temporary wings that burst from back (similar to Stinkfly but more monstrous).
-	- **Enhanced Reflexes & Night Vision**: Perfect for stealth missions or fighting in zero-light environments.
+	- **Environmental Adaptation**: Instant environmental adaptation at molecular level—like breathable atmosphere change, temperature resistance, pressure tolerance (deep space, underwater, toxic gas)—beyond usual Alien X survival.
+	- **DNA Alien Powers And Abilities**:
+		- **Biomorphing Tentacles**: Create bio-tentacles for grappling, strangling, or stabbing—can even mutate tech.
+		- **Enhanced Muscle Density**: 2x-5x baseline strength multiplier.
+		- **Parasite Infusion**: Infect enemies temporarily with control spores (optional mental suppression ability).
+		- **Exoskeletal Armor**: Adds a flexible but nearly bulletproof organic shell that regenerates.
+		- **Flight via Wing Mutation**: Temporary wings that burst from back (similar to Stinkfly but more monstrous).
+		- **Enhanced Reflexes & Night Vision**: Perfect for stealth missions or fighting in zero-light environments.
+		- **Genetic Recombination:** Can splice and combine DNA from any organism to instantly adapt or create new forms on the fly.
+		- **Rapid Evolution:** Instantly evolve to counter any threat, bypassing typical alien mutation cooldowns.
+		- **Genetic Mimicry:** Copy physical and energy traits of any foe or creature after a single encounter or scan.
 
 **Additional Powers:**
 - **Size Alteration & Cosmic Strength:** Way Big and Full Alien X powers allow enormous scale transformation with proportional strength and near-godlike energy manipulation.
@@ -110,6 +115,10 @@ Forged through battles, wisdom, and countless transformations, Feedback was desi
 	- **Omni-Reprogramming**: Rewrite machines, weapons, or even AI minds at will.
 	- **Self-Reconstruction from Code**: Even if Feedback is deleted digitally or exploded physically, he reforms from corrupted code fragments.
 	- **Virus Fusion Mode**: Combine Malware's corruption with Upgrade’s control for a **Tech Domination Form**.
+	- **Digital Virus Infection:** Infect enemy tech, biological cyborgs, and cybernetics with self-replicating virus code causing corruption or system crashes.
+    - **Cybernetic Overlord:** Can remotely take control of drones, robots, and digital weapons at a planetary scale.
+    - **Firewall Immunity:** Absolute resistance to hacking, viruses, or digital sabotage attempts.
+    - **Code Assimilation:** Absorb or rewrite digital code mid-battle to reprogram weapons, vehicles, or even battlefield infrastructure.
 - **Dimensional Travel**: Can freely phase between timelines and universes using Alien X’s space-time powers and Ampfibian’s phase-walking.
 - **Mind Powers**: Possesses high-level telepathy, hive-mind interfacing (Orthopterran), and decision-linked cognitive control with Bellicus and Serena inside Alien X.
 - **Weapon Mastery**: Can morph body parts into weapons (Kevin 11000), create crystal blades or shields (Diamondhead), or magnetic field whips (Lodestar).
