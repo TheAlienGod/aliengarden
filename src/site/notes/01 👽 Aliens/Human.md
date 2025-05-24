@@ -220,14 +220,24 @@ _(Your story additions welcome here! Suggestions below.)_
 
 ### Transformation Details
 
-- 
+- Triggered by **Trishula Mudra** + Omnitrix Pulse.
+- Bi-Ultimatrix core opens to display **24 glowing sigils**.
+- Crown forms, bows orbit, armor layers like divine fractals.
+- Voice deepens with **Vedic + digital resonance**.
+- Eyes shine as 24 souls temporarily speak in unison.
+- Bows and weapons choose form based on intent.
 
 ---
 
 ### Personality & Behavior
 
-- 
+- Peace-driven, duty-bound, visionary.
+- Calm and warm in peace, devastating in battle.
+- Can meditate in chaos, yet strike like lightning.
+- Guided by truth, protected by balance.
+- Loves knowledge, honors teachers and warriors alike.
+- Shows emotion only when souls align for it.
 
 ---
 
-#tags: #alien
+#tags: #alien #omnitrix #godwarrior #shaktiman #krishna #rama #fusionhero #soulguardian #divinearmor #legendaryfusion #multiversalbeing #shatadruprime #epiccharacter
