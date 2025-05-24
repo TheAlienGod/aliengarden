@@ -247,4 +247,13 @@ Stored within Feedback’s mental matrix:
 
 ---
 
-#tags: #alien #omnitrix #feedback #ultimateform #shatadrubose #armored #multisoul #cosmic
+### Signature Attacks
+
+- _Omega Feedback Pulse_: Emits a radial surge that rewrites all molecular structure within a light-year.
+- _Astral Erasure Barrage_: Uses multiversal particles to erase enemies from all timelines simultaneously.
+- _Titan Crush Nova_: Grows to celestial size and slams with a neutronium-charged punch.
+- _Mana Singularity Spell_: Collapses a universe into magical singularity and reintegrates it harmoniously."
+
+---
+
+#tags: #alien #omnitrix #feedback #ultimateform #shatadrubose #armored #multisoul #cosmic 
