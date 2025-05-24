@@ -44,6 +44,11 @@ Forged through battles, wisdom, and countless transformations, Feedback was desi
 - **Space Manipulation**: Fold, stretch, teleport, or collapse space itself.
 - **Immortality**: Cannot age or die due to Alien X’s immortal structure and Snare-Oh’s undead physiology.
 - **Quantum Imagination**: Create new lifeforms, galaxies, even Omniverse variants using pure thought.
+- **Psychic & Psionic Powers:**
+	- Telekinesis (moving objects without touch) beyond just tech manipulation — including molecular manipulation.
+	- Psychic shields against mental attacks or psychic probing (to protect the souls within).
+	- Mind control resistance (not just telepathy, but outright defense).
+	- Precognition or limited clairvoyance to anticipate attacks or foresee enemy moves.
 - **Multiversal Manifestation**: Can exist in infinite versions across parallel realities—syncing them all into one super version.
 - **Mana Manipulation**: 
 	- **Spellcasting**: Casts spells in various languages (including the Anodite tongue) for offense, defense, healing, and dimensional travel.
@@ -62,7 +67,9 @@ Forged through battles, wisdom, and countless transformations, Feedback was desi
 	- **Tech Fusion**: Upgrade can merge with, control, and enhance any machine.
 	- **Memory Absorption**: Aggregor’s and Kevin’s memory scan lets Feedback instantly learn from enemies.
 	- **Dimension Math**: Use advanced spacetime geometry for attacks (Brainstorm + Alien X).
-- **Ultimate Regeneration**: Can recover from any wound or dismemberment (Swampfire, Goop, Upgrade), even rebuild from atoms if destroyed.
+- **Ultimate Regeneration**: Can recover from any wound or dismemberment in milli-seconds (Swampfire, Goop, Upgrade), even rebuild from atoms if destroyed.
+	- Regrows lost parts instantly, down to atoms. Can regenerate from ashes, antimatter implosions, or existence erasure attempts.
+	- Soul regeneration enabled even if body and consciousness are destroyed.
 - **Size and Form Shifting**: From Ditto-like clones to Way Big’s cosmic size—he can grow, shrink, and duplicate while maintaining power.
 	- **Infinite Self Duplication**: Ditto + Alien X = limitless coordinated clones.
 	- **Shapeshifting**: Kevin’s mutation mimicry, Upgrade’s tech form, Armodrillo’s body mods.
@@ -96,6 +103,7 @@ Forged through battles, wisdom, and countless transformations, Feedback was desi
 	- **Fusion**: Aggregor and Kevin power-combo replication.
 	- **Mining & Terrain Destruction**: Armodrillo, Andreas—shockwave drills, fissure makers.
 	- **Environmental Adaptation**: Instant environmental adaptation at molecular level—like breathable atmosphere change, temperature resistance, pressure tolerance (deep space, underwater, toxic gas)—beyond usual Alien X survival.
+	- Automatically rewrites own biology for survival in extreme zones (lava, deep space, black holes, poison atmospheres, voids) with 0 delay.
 	- **DNA Alien Powers And Abilities**:
 		- **Biomorphing Tentacles**: Create bio-tentacles for grappling, strangling, or stabbing—can even mutate tech.
 		- **Enhanced Muscle Density**: 2x-5x baseline strength multiplier.
@@ -119,7 +127,11 @@ Forged through battles, wisdom, and countless transformations, Feedback was desi
     - **Cybernetic Overlord:** Can remotely take control of drones, robots, and digital weapons at a planetary scale.
     - **Firewall Immunity:** Absolute resistance to hacking, viruses, or digital sabotage attempts.
     - **Code Assimilation:** Absorb or rewrite digital code mid-battle to reprogram weapons, vehicles, or even battlefield infrastructure.
+    - **Virtual World**: Can enter virtual worlds or artificial constructs and reshape them at will.
+	- **Ai**: Creates custom AI allies or drone fleets empowered with chosen Feedback abilities. Can act independently or through linked command.
 - **Dimensional Travel**: Can freely phase between timelines and universes using Alien X’s space-time powers and Ampfibian’s phase-walking.
+	- Can shift into semi-non-corporeal forms (ghost-like) to bypass barriers, dodge attacks, or scout.
+	- Can also enter unstable quantum states temporarily, becoming untouchable.
 - **Mind Powers**: Possesses high-level telepathy, hive-mind interfacing (Orthopterran), and decision-linked cognitive control with Bellicus and Serena inside Alien X.
 - **Weapon Mastery**: Can morph body parts into weapons (Kevin 11000), create crystal blades or shields (Diamondhead), or magnetic field whips (Lodestar).
 - **Omni-Adaptive Armor**: The connected armor (see Artifacts section) further enhances these powers and adapts to resist new threats in real time.
