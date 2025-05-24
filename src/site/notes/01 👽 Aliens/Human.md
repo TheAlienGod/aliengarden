@@ -31,7 +31,7 @@ Bearer of 24 Souls · Guardian of the Omnitrix · Cosmic Warrior of Dharma · So
 
 ---
 
-## 📖 Origin & Lore
+### Origin & Lore
 
 In the time of cosmic fracture, the Omnitrix didn’t seek just strength—it searched for **balance**. In Shatadru Bose, it found the **perfect nexus**: part human, part god, part genius, part protector.
 
@@ -100,7 +100,10 @@ This is not just a warrior—this is the **living embodiment of ideal humanity**
 
 ### Weaknesses & Limitations
 
-- 
+- **Alignment Lock** – If even one soul rebels, certain power branches lock out.
+- **Purity Channel** – Bi-Ultimatrix shorts if corrupted by hate, vengeance, or greed.
+- **Rama/Krishna Discipline** – Cannot act dishonorably without soul backlash.
+- **Sacred Weapon Oath** – Bows and Sword cannot strike innocent souls.
 
 ---
 
@@ -134,15 +137,21 @@ This is not just a warrior—this is the **living embodiment of ideal humanity**
 
 **Enemies:**
 
-- 
+- **Maltraxus Prime** – Corrupt AI overlord from Ultimatrix Nexus.
+- **Nyxos** – Void illusionist targeting Krishna’s essence.
+- **The Void Architects** – Seek to erase fused entities.
+- **Chrono Hydra** – Devours souls across timelines.
+- **Ignis Perdition** – Fallen fire god jealous of the Shakti Orb.
 
 ---
 
 ### Notable Battles & Events
 
-_(Your story additions welcome here! Suggestions below.)_
-
-- 
+- **Battle of the Fractured Mind** – First time all 24 souls clashed inside Shatadru.
+- **Sword of Ascalon vs. Pinaka Trial** – Balance test between Shiva’s rage and Krishna’s compassion.
+- **Rise of Nyxos** – Used Buddha’s mantra and Tesla’s tech to dispel false dimensions.
+- **Chrono War 9,000** – Won by fusing Einstein’s time equations with Patanjali’s stillness.
+- **The Soul Eclipse** – When Krishna’s heart overpowered cosmic darkness without a weapon.
 
 ---
 
