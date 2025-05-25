@@ -11,7 +11,7 @@
 |    4    | [[01 👽 Aliens/Gray Matter\|Gray Matter]]  |
 |    5    | [[01 👽 Aliens/Chromastone\|Chromastone]]  |
 |    6    |   [[01 👽 Aliens/Feedback\|Feedback]]   |
-|    7    |    [[Atomix\|Atomix]]    |
+|    7    |    [[01 👽 Aliens/Atomix\|Atomix]]    |
 |    8    |   [[01 👽 Aliens/Upgrade\|Upgrade]]    |
 |    9    |   [[Way Big\|Way Big]]    |
 |   10    |   [[01 👽 Aliens/Tentitan\|Tentitan]]   |
