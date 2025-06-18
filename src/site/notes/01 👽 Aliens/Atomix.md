@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/01-aliens/atomix/"}
 ---
 
+
 # Atomix - The Nuclear King
 
 **Species:**  

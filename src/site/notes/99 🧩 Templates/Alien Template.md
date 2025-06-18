@@ -80,10 +80,4 @@ _(Your story additions welcome here! Suggestions below.)_
 
 ---
 
-### Signature Attacks
-
-- 
-
----
-
-#tags: #alien 
+#tags: #alien
